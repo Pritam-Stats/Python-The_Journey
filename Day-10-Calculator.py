@@ -1,20 +1,17 @@
 # Calculator
-from art10 import logo
-print(logo)
+# from art10 import logo
+# print(logo)            #you can ignore this. Just a logo as a decoration
 # add
 
-
+#defining the functions of the calculator
 def add(n1, n2):
     return n1 + n2
-
 
 def substract(n1, n2):
     return n1 - n2
 
-
 def multiply(n1, n2):
     return n1 * n2
-
 
 def div(n1, n2):
     return n1 / n2
